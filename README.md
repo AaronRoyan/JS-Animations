@@ -1,2 +1,2 @@
 # JS-Animations
-Different JavaScript Animations, includeing Scrolling and Clicking.
+Different JavaScript Animations, including Scrolling and Clicking.
